@@ -1,0 +1,215 @@
+{
+    "Lesson": [
+        {
+            "id": 1,
+            "name": "ت",
+            "spell_am": "ታእ",
+            "spell_en": "Taa",
+            "sound": "audio/level_1/3.mp3"
+        },
+        {
+            "id": 2,
+            "name": "ب",
+            "spell_am": "ባእ",
+            "spell_en": "Baa",
+            "sound": "audio/level_1/2.mp3"
+        },
+        {
+            "id": 3,
+            "name": "أ",
+            "spell_am": "ኣሊፍ",
+            "spell_en": "Alif",
+            "sound": "audio/level_1/1.mp3"
+        },
+        {
+            "id": 4,
+            "name": "ح",
+            "spell_am": "ሓእ",
+            "spell_en": "H'aa",
+            "sound": "audio/level_1/6.mp3"
+        },
+        {
+            "id": 5,
+            "name": "ج",
+            "spell_am": "ጂም",
+            "spell_en": "Jeem",
+            "sound": "audio/level_1/5.mp3"
+        },
+        {
+            "id": 6,
+            "name": "ث",
+            "spell_am": "ሳእ",
+            "spell_en": "Thaa",
+            "sound": "audio/level_1/4.mp3"
+        },
+        {
+            "id": 7,
+            "name": "ذ",
+            "spell_am": "ዛል",
+            "spell_en": "Zhaal",
+            "sound": "audio/level_1/9.mp3"
+        },
+        {
+            "id": 8,
+            "name": "د",
+            "spell_am": "ዳል",
+            "spell_en": "Daal",
+            "sound": "audio/level_1/8.mp3"
+        },
+        {
+            "id": 9,
+            "name": "خ",
+            "spell_am": "ኻእ",
+            "spell_en": "Khaa",
+            "sound": "audio/level_1/7.mp3"
+        },
+        {
+            "id": 10,
+            "name": "س",
+            "spell_am": "ሲን",
+            "spell_en": "Seen",
+            "sound": "audio/level_1/12.mp3"
+        },
+        {
+            "id": 11,
+            "name": "ز",
+            "spell_am": "ዛእ",
+            "spell_en": "Zaa",
+            "sound": "audio/level_1/11.mp3"
+        },
+        {
+            "id": 12,
+            "name": "ر",
+            "spell_am": "ራእ",
+            "spell_en": "Raa",
+            "sound": "audio/level_1/10.mp3"
+        },
+        {
+            "id": 13,
+            "name": "ض",
+            "spell_am": "ዷድ",
+            "spell_en": "Daad",
+            "sound": "audio/level_1/15.mp3"
+        },
+        {
+            "id": 14,
+            "name": "ص",
+            "spell_am": "ሷድ",
+            "spell_en": "Saad",
+            "sound": "audio/level_1/14.mp3"
+        },
+        {
+            "id": 15,
+            "name": "ش",
+            "spell_am": "ሺን",
+            "spell_en": "shin",
+            "sound": "audio/level_1/13.mp3"
+        },
+        {
+            "id": 16,
+            "name": "ع",
+            "spell_am": "ዓይን",
+            "spell_en": "A'in",
+            "sound": "audio/level_1/18.mp3"
+        },
+        {
+            "id": 17,
+            "name": "ظ",
+            "spell_am": "",
+            "spell_en": "Zua",
+            "sound": "audio/level_1/17.mp3"
+        },
+        {
+            "id": 18,
+            "name": "ط",
+            "spell_am": "ጣእ",
+            "spell_en": " Tua",
+            "sound": "audio/level_1/16.mp3"
+        },
+        {
+            "id": 19,
+            "name": "ق",
+            "spell_am": "ቓፍ",
+            "spell_en": "Qaaf",
+            "sound": "audio/level_1/21.mp3"
+        },
+        {
+            "id": 20,
+            "name": "ف",
+            "spell_am": "ፋእ",
+            "spell_en": "Faa",
+            "sound": "audio/level_1/20.mp3"
+        },
+        {
+            "id": 21,
+            "name": "غ",
+            "spell_am": "ገይን",
+            "spell_en": "Ghain",
+            "sound": "audio/level_1/19.mp3"
+        },
+        {
+            "id": 22,
+            "name": "م",
+            "spell_am": "ሚም",
+            "spell_en": "Meem",
+            "sound": "audio/level_1/24.mp3"
+        },
+        {
+            "id": 23,
+            "name": "ل",
+            "spell_am": "ላም",
+            "spell_en": "Laam",
+            "sound": "audio/level_1/23.mp3"
+        },
+        {
+            "id": 24,
+            "name": "ك",
+            "spell_am": "ካፍ",
+            "spell_en": "Kaaf",
+            "sound": "audio/level_1/22.mp3"
+        },
+        
+        {
+            "id": 26,
+            "name": "ه",
+            "spell_am": "ሃእ",
+            "spell_en": "Haa",
+            "sound": "audio/level_1/26.mp3"
+        },
+        {
+            "id": 25,
+            "name": "و",
+            "spell_am": "ዋው",
+            "spell_en": "Waau",
+            "sound": "audio/level_1/27.mp3"
+        },
+        {
+            "id": 27,
+            "name": "ن",
+            "spell_am": "ኑን",
+            "spell_en": "Noon",
+            "sound": "audio/level_1/25.mp3"
+        },
+        {
+            "id": 30,
+            "name": "",
+            "spell_am": "",
+            "spell_en": "",
+            "sound": ""
+        },
+        {
+            "id": 29,
+            "name": "",
+            "spell_am": "",
+            "spell_en": "",
+            "sound": ""
+        },
+        {
+            "id": 28,
+            "name": "ي",
+            "spell_am": "ያእ",
+            "spell_en": "Yaa",
+            "sound": "audio/level_1/28.mp3"
+        }
+    ]
+}

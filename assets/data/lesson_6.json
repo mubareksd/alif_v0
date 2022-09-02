@@ -1,0 +1,215 @@
+{
+    "Lesson": [
+        {
+            "id": 1,
+            "name": "تٍ",
+            "spell_am": "ቲን",
+            "spell_en": "Tin",
+            "sound": "audio/level_6/3.mp3"
+        },
+        {
+            "id": 2,
+            "name": "بٍ",
+            "spell_am": "ቢን",
+            "spell_en": "Bin",
+            "sound": "audio/level_6/2.mp3"
+        },
+        {
+            "id": 3,
+            "name": "إٍ",
+            "spell_am": "ኢን",
+            "spell_en": "In",
+            "sound": "audio/level_6/1.mp3"
+        },
+        {
+            "id": 4,
+            "name": "حٍ",
+            "spell_am": "ሒን",
+            "spell_en": "H'in",
+            "sound": "audio/level_6/6.mp3"
+        },
+        {
+            "id": 5,
+            "name": "جٍ",
+            "spell_am": "ጂን",
+            "spell_en": "Jin",
+            "sound": "audio/level_6/5.mp3"
+        },
+        {
+            "id": 6,
+            "name": "ثٍ",
+            "spell_am": "ሲን",
+            "spell_en": "Thin",
+            "sound": "audio/level_6/4.mp3"
+        },
+        {
+            "id": 7,
+            "name": "ذٍ",
+            "spell_am": "ዚን",
+            "spell_en": "Zhin",
+            "sound": "audio/level_6/9.mp3"
+        },
+        {
+            "id": 8,
+            "name": "دٍ",
+            "spell_am": "ዲን",
+            "spell_en": "Din",
+            "sound": "audio/level_6/8.mp3"
+        },
+        {
+            "id": 9,
+            "name": "خٍ",
+            "spell_am": "ኺን",
+            "spell_en": "Khin",
+            "sound": "audio/level_6/7.mp3"
+        },
+        {
+            "id": 10,
+            "name": "سٍ",
+            "spell_am": "ሲን",
+            "spell_en": "Sin",
+            "sound": "audio/level_6/12.mp3"
+        },
+        {
+            "id": 11,
+            "name": "زٍ",
+            "spell_am": "ዚን",
+            "spell_en": "Zin",
+            "sound": "audio/level_6/11.mp3"
+        },
+        {
+            "id": 12,
+            "name": "رٍ",
+            "spell_am": "ሪን",
+            "spell_en": "Rin",
+            "sound": "audio/level_6/10.mp3"
+        },
+        {
+            "id": 13,
+            "name": "ضٍ",
+            "spell_am": "ዲን",
+            "spell_en": "Din",
+            "sound": "audio/level_6/15.mp3"
+        },
+        {
+            "id": 14,
+            "name": "صٍ",
+            "spell_am": "ሲን",
+            "spell_en": "Sin",
+            "sound": "audio/level_6/14.mp3"
+        },
+        {
+            "id": 15,
+            "name": "شٍ",
+            "spell_am": "ሺን",
+            "spell_en": "shin",
+            "sound": "audio/level_6/13.mp3"
+        },
+        {
+            "id": 16,
+            "name": "عٍ",
+            "spell_am": "ዒን",
+            "spell_en": "A'in",
+            "sound": "audio/level_6/18.mp3"
+        },
+        {
+            "id": 17,
+            "name": "ظٍ",
+            "spell_am": "ዚን",
+            "spell_en": "Ziin",
+            "sound": "audio/level_6/17.mp3"
+        },
+        {
+            "id": 18,
+            "name": "طٍ",
+            "spell_am": "ጢን",
+            "spell_en": " Tiin",
+            "sound": "audio/level_6/16.mp3"
+        },
+        {
+            "id": 19,
+            "name": "قٍ",
+            "spell_am": "ቒን",
+            "spell_en": "Qin",
+            "sound": "audio/level_6/21.mp3"
+        },
+        {
+            "id": 20,
+            "name": "فٍ",
+            "spell_am": "ፊን",
+            "spell_en": "Fin",
+            "sound": "audio/level_6/20.mp3"
+        },
+        {
+            "id": 21,
+            "name": "غٍ",
+            "spell_am": "ጊን",
+            "spell_en": "Ghin",
+            "sound": "audio/level_6/19.mp3"
+        },
+        {
+            "id": 22,
+            "name": "مٍ",
+            "spell_am": "ሚን",
+            "spell_en": "Min",
+            "sound": "audio/level_6/24.mp3"
+        },
+        {
+            "id": 23,
+            "name": "لٍ",
+            "spell_am": "ሊን",
+            "spell_en": "Lin",
+            "sound": "audio/level_6/23.mp3"
+        },
+        {
+            "id": 24,
+            "name": "كٍ",
+            "spell_am": "ኪን",
+            "spell_en": "Kin",
+            "sound": "audio/level_6/22.mp3"
+        },
+        
+        {
+            "id": 26,
+            "name": "هٍـ",
+            "spell_am": "ሂን",
+            "spell_en": "Hin",
+            "sound": "audio/level_6/26.mp3"
+        },
+        {
+            "id": 25,
+            "name": "وٍ",
+            "spell_am": "ዊን",
+            "spell_en": "Win",
+            "sound": "audio/level_6/27.mp3"
+        },
+        {
+            "id": 27,
+            "name": "نٍ",
+            "spell_am": "ኒን",
+            "spell_en": "Nin",
+            "sound": "audio/level_6/25.mp3"
+        },
+        {
+            "id": 30,
+            "name": "",
+            "spell_am": "",
+            "spell_en": "",
+            "sound": ""
+        },
+        {
+            "id": 29,
+            "name": "",
+            "spell_am": "",
+            "spell_en": "",
+            "sound": ""
+        },
+        {
+            "id": 28,
+            "name": "يٍ",
+            "spell_am": "ዪን",
+            "spell_en": "Yin",
+            "sound": "audio/level_6/28.mp3"
+        }
+    ]
+}

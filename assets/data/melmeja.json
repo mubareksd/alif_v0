@@ -1,0 +1,39 @@
+{
+    "Melmejas": [
+        {
+            "id": 1,
+            "name": "መልመጃ 1",
+            "location": "lesson_1"
+        },
+        {
+            "id": 2,
+            "name": "መልመጃ 2",
+            "location": "lesson_2"
+        },
+        {
+            "id": 3,
+            "name": "መልመጃ 3",
+            "location": "lesson_3"
+        },
+        {
+            "id": 4,
+            "name": "መልመጃ 4",
+            "location": "lesson_4"
+        },
+        {
+            "id": 5,
+            "name": "መልመጃ 5",
+            "location": "lesson_5"
+        },
+        {
+            "id": 6,
+            "name": "መልመጃ 6",
+            "location": "lesson_6"
+        },
+        {
+            "id": 7,
+            "name": "መልመጃ 7",
+            "location": "lesson_7"
+        }
+    ]
+}

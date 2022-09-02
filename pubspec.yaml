@@ -1,0 +1,361 @@
+name: alif
+description: Learn to read and write arabic easily.
+version: 1.0.2+2
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  audioplayers: ^0.13.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    # Datas
+    - assets/data/lesson_1.json
+    - assets/data/lesson_2.json
+    - assets/data/lesson_3.json
+    - assets/data/lesson_4.json
+    - assets/data/lesson_5.json
+    - assets/data/lesson_6.json
+    - assets/data/lesson_7.json
+    #- assets/data/lesson_8.json
+    #- assets/data/lesson_9.json
+    #- assets/data/lesson_10.json
+    - assets/data/melmeja.json
+    # Audios
+    - assets/audio/level_1/1.mp3
+    - assets/audio/level_1/2.mp3
+    - assets/audio/level_1/3.mp3
+    - assets/audio/level_1/4.mp3
+    - assets/audio/level_1/5.mp3
+    - assets/audio/level_1/6.mp3
+    - assets/audio/level_1/7.mp3
+    - assets/audio/level_1/8.mp3
+    - assets/audio/level_1/9.mp3
+    - assets/audio/level_1/10.mp3
+    - assets/audio/level_1/11.mp3
+    - assets/audio/level_1/12.mp3
+    - assets/audio/level_1/13.mp3
+    - assets/audio/level_1/14.mp3
+    - assets/audio/level_1/15.mp3
+    - assets/audio/level_1/16.mp3
+    - assets/audio/level_1/17.mp3
+    - assets/audio/level_1/18.mp3
+    - assets/audio/level_1/19.mp3
+    - assets/audio/level_1/20.mp3
+    - assets/audio/level_1/21.mp3
+    - assets/audio/level_1/22.mp3
+    - assets/audio/level_1/23.mp3
+    - assets/audio/level_1/24.mp3
+    - assets/audio/level_1/25.mp3
+    - assets/audio/level_1/26.mp3
+    - assets/audio/level_1/27.mp3
+    - assets/audio/level_1/28.mp3
+    - assets/audio/level_1/29.mp3
+
+    - assets/audio/level_2/1.mp3
+    - assets/audio/level_2/2.mp3
+    - assets/audio/level_2/3.mp3
+    - assets/audio/level_2/4.mp3
+    - assets/audio/level_2/5.mp3
+    - assets/audio/level_2/6.mp3
+    - assets/audio/level_2/7.mp3
+    - assets/audio/level_2/8.mp3
+    - assets/audio/level_2/9.mp3
+    - assets/audio/level_2/10.mp3
+    - assets/audio/level_2/11.mp3
+    - assets/audio/level_2/12.mp3
+    - assets/audio/level_2/13.mp3
+    - assets/audio/level_2/14.mp3
+    - assets/audio/level_2/15.mp3
+    - assets/audio/level_2/16.mp3
+    - assets/audio/level_2/17.mp3
+    - assets/audio/level_2/18.mp3
+    - assets/audio/level_2/19.mp3
+    - assets/audio/level_2/20.mp3
+    - assets/audio/level_2/21.mp3
+    - assets/audio/level_2/22.mp3
+    - assets/audio/level_2/23.mp3
+    - assets/audio/level_2/24.mp3
+    - assets/audio/level_2/25.mp3
+    - assets/audio/level_2/26.mp3
+    - assets/audio/level_2/27.mp3
+    - assets/audio/level_2/28.mp3
+
+    - assets/audio/level_3/1.mp3
+    - assets/audio/level_3/2.mp3
+    - assets/audio/level_3/3.mp3
+    - assets/audio/level_3/4.mp3
+    - assets/audio/level_3/5.mp3
+    - assets/audio/level_3/6.mp3
+    - assets/audio/level_3/7.mp3
+    - assets/audio/level_3/8.mp3
+    - assets/audio/level_3/9.mp3
+    - assets/audio/level_3/10.mp3
+    - assets/audio/level_3/11.mp3
+    - assets/audio/level_3/12.mp3
+    - assets/audio/level_3/13.mp3
+    - assets/audio/level_3/14.mp3
+    - assets/audio/level_3/15.mp3
+    - assets/audio/level_3/16.mp3
+    - assets/audio/level_3/17.mp3
+    - assets/audio/level_3/18.mp3
+    - assets/audio/level_3/19.mp3
+    - assets/audio/level_3/20.mp3
+    - assets/audio/level_3/21.mp3
+    - assets/audio/level_3/22.mp3
+    - assets/audio/level_3/23.mp3
+    - assets/audio/level_3/24.mp3
+    - assets/audio/level_3/25.mp3
+    - assets/audio/level_3/26.mp3
+    - assets/audio/level_3/27.mp3
+    - assets/audio/level_3/28.mp3
+
+    - assets/audio/level_4/1.mp3
+    - assets/audio/level_4/2.mp3
+    - assets/audio/level_4/3.mp3
+    - assets/audio/level_4/4.mp3
+    - assets/audio/level_4/5.mp3
+    - assets/audio/level_4/6.mp3
+    - assets/audio/level_4/7.mp3
+    - assets/audio/level_4/8.mp3
+    - assets/audio/level_4/9.mp3
+    - assets/audio/level_4/10.mp3
+    - assets/audio/level_4/11.mp3
+    - assets/audio/level_4/12.mp3
+    - assets/audio/level_4/13.mp3
+    - assets/audio/level_4/14.mp3
+    - assets/audio/level_4/15.mp3
+    - assets/audio/level_4/16.mp3
+    - assets/audio/level_4/17.mp3
+    - assets/audio/level_4/18.mp3
+    - assets/audio/level_4/19.mp3
+    - assets/audio/level_4/20.mp3
+    - assets/audio/level_4/21.mp3
+    - assets/audio/level_4/22.mp3
+    - assets/audio/level_4/23.mp3
+    - assets/audio/level_4/24.mp3
+    - assets/audio/level_4/25.mp3
+    - assets/audio/level_4/26.mp3
+    - assets/audio/level_4/27.mp3
+    - assets/audio/level_4/28.mp3
+
+    - assets/audio/level_5/1.mp3
+    - assets/audio/level_5/2.mp3
+    - assets/audio/level_5/3.mp3
+    - assets/audio/level_5/4.mp3
+    - assets/audio/level_5/5.mp3
+    - assets/audio/level_5/6.mp3
+    - assets/audio/level_5/7.mp3
+    - assets/audio/level_5/8.mp3
+    - assets/audio/level_5/9.mp3
+    - assets/audio/level_5/10.mp3
+    - assets/audio/level_5/11.mp3
+    - assets/audio/level_5/12.mp3
+    - assets/audio/level_5/13.mp3
+    - assets/audio/level_5/14.mp3
+    - assets/audio/level_5/15.mp3
+    - assets/audio/level_5/16.mp3
+    - assets/audio/level_5/17.mp3
+    - assets/audio/level_5/18.mp3
+    - assets/audio/level_5/19.mp3
+    - assets/audio/level_5/20.mp3
+    - assets/audio/level_5/21.mp3
+    - assets/audio/level_5/22.mp3
+    - assets/audio/level_5/23.mp3
+    - assets/audio/level_5/24.mp3
+    - assets/audio/level_5/25.mp3
+    - assets/audio/level_5/26.mp3
+    - assets/audio/level_5/27.mp3
+    - assets/audio/level_5/28.mp3
+
+    - assets/audio/level_6/1.mp3
+    - assets/audio/level_6/2.mp3
+    - assets/audio/level_6/3.mp3
+    - assets/audio/level_6/4.mp3
+    - assets/audio/level_6/5.mp3
+    - assets/audio/level_6/6.mp3
+    - assets/audio/level_6/7.mp3
+    - assets/audio/level_6/8.mp3
+    - assets/audio/level_6/9.mp3
+    - assets/audio/level_6/10.mp3
+    - assets/audio/level_6/11.mp3
+    - assets/audio/level_6/12.mp3
+    - assets/audio/level_6/13.mp3
+    - assets/audio/level_6/14.mp3
+    - assets/audio/level_6/15.mp3
+    - assets/audio/level_6/16.mp3
+    - assets/audio/level_6/17.mp3
+    - assets/audio/level_6/18.mp3
+    - assets/audio/level_6/19.mp3
+    - assets/audio/level_6/20.mp3
+    - assets/audio/level_6/21.mp3
+    - assets/audio/level_6/22.mp3
+    - assets/audio/level_6/23.mp3
+    - assets/audio/level_6/24.mp3
+    - assets/audio/level_6/25.mp3
+    - assets/audio/level_6/26.mp3
+    - assets/audio/level_6/27.mp3
+    - assets/audio/level_6/28.mp3
+
+    - assets/audio/level_7/1.mp3
+    - assets/audio/level_7/2.mp3
+    - assets/audio/level_7/3.mp3
+    - assets/audio/level_7/4.mp3
+    - assets/audio/level_7/5.mp3
+    - assets/audio/level_7/6.mp3
+    - assets/audio/level_7/7.mp3
+    - assets/audio/level_7/8.mp3
+    - assets/audio/level_7/9.mp3
+    - assets/audio/level_7/10.mp3
+    - assets/audio/level_7/11.mp3
+    - assets/audio/level_7/12.mp3
+    - assets/audio/level_7/13.mp3
+    - assets/audio/level_7/14.mp3
+    - assets/audio/level_7/15.mp3
+    - assets/audio/level_7/16.mp3
+    - assets/audio/level_7/17.mp3
+    - assets/audio/level_7/18.mp3
+    - assets/audio/level_7/19.mp3
+    - assets/audio/level_7/20.mp3
+    - assets/audio/level_7/21.mp3
+    - assets/audio/level_7/22.mp3
+    - assets/audio/level_7/23.mp3
+    - assets/audio/level_7/24.mp3
+    - assets/audio/level_7/25.mp3
+    - assets/audio/level_7/26.mp3
+    - assets/audio/level_7/27.mp3
+    - assets/audio/level_7/28.mp3
+
+  fonts:
+    - family: NotoSansEthiopic-Regular
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-Regular.ttf
+    - family: NotoSansEthiopic-Black
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-Black.ttf
+    - family: NotoSansEthiopic-Bold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-Bold.ttf
+    - family: NotoSansEthiopic-Condensed
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-Condensed.ttf
+    - family: NotoSansEthiopic-CondensedBold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-CondensedBold.ttf
+    - family: NotoSansEthiopic-CondensedExtraBold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-CondensedExtraBold.ttf
+    - family: NotoSansEthiopic-CondensedExtraLight
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-CondensedExtraLight.ttf
+    - family: NotoSansEthiopic-CondensedLight
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-CondensedLight.ttf
+    - family: NotoSansEthiopic-CondensedMedium
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-CondensedMedium.ttf
+    - family: NotoSansEthiopic-CondensedSemiBold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-CondensedSemiBold.ttf
+    - family: NotoSansEthiopic-CondensedThin
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-CondensedThin.ttf
+    - family: NotoSansEthiopic-ExtraBold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-ExtraBold.ttf
+    - family: NotoSansEthiopic-ExtraCondensed
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-ExtraCondensed.ttf
+    - family: NotoSansEthiopic-ExtraCondensedBlack
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-ExtraCondensedBlack.ttf
+    - family: NotoSansEthiopic-ExtraCondensedBold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-ExtraCondensedBold.ttf
+    - family: NotoSansEthiopic-ExtraCondensedExtraBold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-ExtraCondensedExtraBold.ttf
+    - family: NotoSansEthiopic-ExtraCondensedExtraLight
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-ExtraCondensedExtraLight.ttf
+    - family: NotoSansEthiopic-ExtraCondensedLight
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-ExtraCondensedLight.ttf
+    - family: NotoSansEthiopic-ExtraCondensedMedium
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-ExtraCondensedMedium.ttf
+    - family: NotoSansEthiopic-ExtraCondensedSemiBold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-ExtraCondensedSemiBold.ttf
+    - family: NotoSansEthiopic-ExtraCondensedThin
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-ExtraCondensedThin.ttf
+    - family: NotoSansEthiopic-ExtraLight
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-ExtraLight.ttf
+    - family: NotoSansEthiopic-Light
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-Light.ttf
+    - family: NotoSansEthiopic-Medium
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-Medium.ttf
+    - family: NotoSansEthiopic-SemiBold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-SemiBold.ttf
+    - family: NotoSansEthiopic-SemiCondensed
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-SemiCondensed.ttf
+    - family: NotoSansEthiopic-SemiCondensedBlack
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-SemiCondensedBlack.ttf
+    - family: NotoSansEthiopic-SemiCondensedBold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-SemiCondensedBold.ttf
+    - family: NotoSansEthiopic-SemiCondensedExtraBold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-SemiCondensedExtraBold.ttf
+    - family: NotoSansEthiopic-SemiCondensedExtraLight
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-SemiCondensedExtraLight.ttf
+    - family: NotoSansEthiopic-SemiCondensedLight
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-SemiCondensedLight.ttf
+    - family: NotoSansEthiopic-SemiCondensedMedium
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-SemiCondensedMedium.ttf
+    - family: NotoSansEthiopic-SemiCondensedSemiBold
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-SemiCondensedSemiBold.ttf
+    - family: NotoSansEthiopic-SemiCondensedThin
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-SemiCondensedThin.ttf
+    - family: NotoSansEthiopic-Thin
+      fonts:
+        - asset: assets/fonts/NotoSansEthiopic/NotoSansEthiopic-Thin.ttf
+    - family: amiri-regular
+      fonts:
+        - asset: assets/fonts/fonts-hosny-amiri/amiri-regular.ttf
+    - family: amiri-bold
+      fonts:
+        - asset: assets/fonts/fonts-hosny-amiri/amiri-bold.ttf
+    - family: amiri-boldslanted
+      fonts:
+        - asset: assets/fonts/fonts-hosny-amiri/amiri-boldslanted.ttf
+    - family: amiri-quran
+      fonts:
+        - asset: assets/fonts/fonts-hosny-amiri/amiri-quran.ttf
+    - family: amiri-quran-colored
+      fonts:
+        - asset: assets/fonts/fonts-hosny-amiri/amiri-quran-colored.ttf
+    - family: amiri-slanted
+      fonts:
+        - asset: assets/fonts/fonts-hosny-amiri/amiri-slanted.ttf

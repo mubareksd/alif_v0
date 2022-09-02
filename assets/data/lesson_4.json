@@ -1,0 +1,215 @@
+{
+    "Lesson": [
+        {
+            "id": 1,
+            "name": "تُ",
+            "spell_am": "ቱ",
+            "spell_en": "Tu",
+            "sound": "audio/level_4/3.mp3"
+        },
+        {
+            "id": 2,
+            "name": "بُ",
+            "spell_am": "ቡ",
+            "spell_en": "Bu",
+            "sound": "audio/level_4/2.mp3"
+        },
+        {
+            "id": 3,
+            "name": "أُ",
+            "spell_am": "ኡ",
+            "spell_en": "U",
+            "sound": "audio/level_4/1.mp3"
+        },
+        {
+            "id": 4,
+            "name": "حُ",
+            "spell_am": "ሑ",
+            "spell_en": "Hu",
+            "sound": "audio/level_4/6.mp3"
+        },
+        {
+            "id": 5,
+            "name": "جُ",
+            "spell_am": "ጁ",
+            "spell_en": "Ju",
+            "sound": "audio/level_4/5.mp3"
+        },
+        {
+            "id": 6,
+            "name": "ثُ",
+            "spell_am": "ሱ",
+            "spell_en": "Su",
+            "sound": "audio/level_4/4.mp3"
+        },
+        {
+            "id": 7,
+            "name": "ذُ",
+            "spell_am": "ዙ",
+            "spell_en": "Zhu",
+            "sound": "audio/level_4/9.mp3"
+        },
+        {
+            "id": 8,
+            "name": "دُ",
+            "spell_am": "ዱ",
+            "spell_en": "Du",
+            "sound": "audio/level_4/8.mp3"
+        },
+        {
+            "id": 9,
+            "name": "خُ",
+            "spell_am": "ኹ",
+            "spell_en": "Khu",
+            "sound": "audio/level_4/7.mp3"
+        },
+        {
+            "id": 10,
+            "name": "سُ",
+            "spell_am": "ሱ",
+            "spell_en": "Su",
+            "sound": "audio/level_4/12.mp3"
+        },
+        {
+            "id": 11,
+            "name": "زُ",
+            "spell_am": "ዙ",
+            "spell_en": "Zu",
+            "sound": "audio/level_4/11.mp3"
+        },
+        {
+            "id": 12,
+            "name": "رُ",
+            "spell_am": "ሩ",
+            "spell_en": "RU",
+            "sound": "audio/level_4/10.mp3"
+        },
+        {
+            "id": 13,
+            "name": "ضُ",
+            "spell_am": "ዱ",
+            "spell_en": "DU",
+            "sound": "audio/level_4/15.mp3"
+        },
+        {
+            "id": 14,
+            "name": "صُ",
+            "spell_am": "ሱ",
+            "spell_en": "Su",
+            "sound": "audio/level_4/14.mp3"
+        },
+        {
+            "id": 15,
+            "name": "شُ",
+            "spell_am": "ሹ",
+            "spell_en": "Shu",
+            "sound": "audio/level_4/13.mp3"
+        },
+        {
+            "id": 16,
+            "name": "عُ",
+            "spell_am": "ዑ",
+            "spell_en": "Uiu",
+            "sound": "audio/level_4/18.mp3"
+        },
+        {
+            "id": 17,
+            "name": "ظُ",
+            "spell_am": "ዙ",
+            "spell_en": "Zuu",
+            "sound": "audio/level_4/17.mp3"
+        },
+        {
+            "id": 18,
+            "name": "طُ",
+            "spell_am": "ጡ",
+            "spell_en": " Tuu",
+            "sound": "audio/level_4/16.mp3"
+        },
+        {
+            "id": 19,
+            "name": "قُ",
+            "spell_am": "ቑ",
+            "spell_en": "Qu",
+            "sound": "audio/level_4/21.mp3"
+        },
+        {
+            "id": 20,
+            "name": "فُ",
+            "spell_am": "ፉ",
+            "spell_en": "Fu",
+            "sound": "audio/level_4/20.mp3"
+        },
+        {
+            "id": 21,
+            "name": "غُ",
+            "spell_am": "ጉ",
+            "spell_en": "Ghu",
+            "sound": "audio/level_4/19.mp3"
+        },
+        {
+            "id": 22,
+            "name": "مُ",
+            "spell_am": "ሙ",
+            "spell_en": "Mu",
+            "sound": "audio/level_4/24.mp3"
+        },
+        {
+            "id": 23,
+            "name": "لُ",
+            "spell_am": "ሉ",
+            "spell_en": "Lu",
+            "sound": "audio/level_4/23.mp3"
+        },
+        {
+            "id": 24,
+            "name": "كُ",
+            "spell_am": "ኩ",
+            "spell_en": "Ku",
+            "sound": "audio/level_4/22.mp3"
+        },
+        
+        {
+            "id": 26,
+            "name": "هُـ",
+            "spell_am": "ሁ",
+            "spell_en": "Hu",
+            "sound": "audio/level_4/27.mp3"
+        },
+        {
+            "id": 25,
+            "name":"وُ",
+            "spell_am": "ዉ",
+            "spell_en": "Wu",
+            "sound": "audio/level_4/26.mp3"
+        },
+        {
+            "id": 27,
+            "name": "نُ",
+            "spell_am": "ኑ",
+            "spell_en": "Nu",
+            "sound": "audio/level_4/25.mp3"
+        },
+        {
+            "id": 30,
+            "name": "",
+            "spell_am": "",
+            "spell_en": "",
+            "sound": ""
+        },
+        {
+            "id": 29,
+            "name": "",
+            "spell_am": "",
+            "spell_en": "",
+            "sound": ""
+        },
+        {
+            "id": 28,
+            "name": "يُ",
+            "spell_am": "ዩ",
+            "spell_en": "Yu",
+            "sound": "audio/level_4/28.mp3"
+        }
+    ]
+}
